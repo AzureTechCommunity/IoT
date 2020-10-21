@@ -7,6 +7,7 @@ This page is a resource for IoT and Kubernetes related Meetup content
 
 ## Interactive Demos/Sessions
 - [Azure IoT Workshop](https://azure.github.io/iot-workshop-asset-tracking/): Real-time asset tracking scenario
+![image of scenario](https://github.com/AzureTechCommunity/IoT-Content/blob/main/AzureIoTBuildSession.PNG)
 - [Live code session at Build](https://www.youtube.com/watch?v=3A6Lhakfyes&feature=emb_logo) featuring the Azure IoT Workshop
 
 ## Additional Resources
