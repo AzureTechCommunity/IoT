@@ -2,7 +2,7 @@
 This page is a resource for IoT and Kubernetes related Meetup content
 
 ## Introducing IoT and Kubernetes
-- Learn about running [Kubernetes on Azure](https://github.com/microsoft/cloud-native-meetups/blob/master/presentations/k8s-on-azure.pptx)
+- Learn about running [Kubernetes on Azure](https://github.com/AzureTechCommunity/IoT-Content/blob/main/presentations/k8s-on-azure.pptx)
 - Learn about IoT on Azure
 
 ## Interactive Demos/Sessions
