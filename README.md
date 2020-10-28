@@ -11,6 +11,7 @@ This page is a resource for IoT related Meetup content
 | ![MS Learn IoT Solutions](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/MSLearnAzureIoTSolutions.PNG) | [Microsort Azure IoT Strategy and Solutions](https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/) | MS Learn Module | Beginner |
 | ![Azure IoT Workshop](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/AzureIoTWorkshopContoso.PNG)  | [Azure IoT Workshop](https://azure.github.io/iot-workshop-asset-tracking/)  | Real-time asset tracking scenario  | Intermediate |
 | ![Azure IoT Build Session](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/AzureIoTBuildSession.PNG)  | [Live code session at Build](https://www.youtube.com/watch?v=3A6Lhakfyes&feature=emb_logo)  | Code session demonstrating the IoT workshop  | Intermediate |
+| ![DevKit Simulator](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/DevKitSimulator.PNG) | [IoT DevKit Simulator](https://azure-samples.github.io/iot-devkit-web-simulator/) | DevKit Simiulator for MXChip | Intermediate | 
 
 ## Additional Resources
 | Resource | Description |
