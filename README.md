@@ -7,8 +7,8 @@ This page is a resource for IoT related Meetup content
 ## Interactive Demos/Sessions
 | Preview | Resource | Description |
 | ------------- | ------------- | ------------- | 
-| ![Azure IoT Workshop](https://github.com/AzureTechCommunity/IoT-Content/blob/main/images/AzureIoTWorkshopContoso.PNG)  | [Azure IoT Workshop](https://azure.github.io/iot-workshop-asset-tracking/)  | Real-time asset tracking scenario  |
-| ![Azure IoT Build Session](https://github.com/AzureTechCommunity/IoT-Content/blob/main/images/AzureIoTBuildSession.PNG)  | [Live code session at Build](https://www.youtube.com/watch?v=3A6Lhakfyes&feature=emb_logo)  | Code session demonstrating the IoT workshop  |
+| ![Azure IoT Workshop](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/AzureIoTWorkshopContoso.PNG)  | [Azure IoT Workshop](https://azure.github.io/iot-workshop-asset-tracking/)  | Real-time asset tracking scenario  |
+| ![Azure IoT Build Session](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/AzureIoTBuildSession.PNG)  | [Live code session at Build](https://www.youtube.com/watch?v=3A6Lhakfyes&feature=emb_logo)  | Code session demonstrating the IoT workshop  |
 
 ## Additional Resources
 | Resource | Description |
