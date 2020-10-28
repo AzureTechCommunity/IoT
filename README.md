@@ -2,7 +2,7 @@
 This page is a resource for IoT related Meetup content
 
 ## Introducing IoT
-- Learn about IoT on Azure
+- [What is IoT on Azure?](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-introduction)
 
 ## Interactive Demos/Sessions
 | Preview | Resource | Description |
