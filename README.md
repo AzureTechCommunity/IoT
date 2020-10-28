@@ -1,15 +1,14 @@
-# IoT and Kubernetes Meetup Content
-This page is a resource for IoT and Kubernetes related Meetup content
+# IoT Meetup Content
+This page is a resource for IoT related Meetup content
 
-## Introducing IoT and Kubernetes
-- Learn about running [Kubernetes on Azure](https://github.com/AzureTechCommunity/IoT-Content/blob/main/presentations/k8s-on-azure.pptx)
+## Introducing IoT
 - Learn about IoT on Azure
 
 ## Interactive Demos/Sessions
 | Preview | Resource | Description |
 | ------------- | ------------- | ------------- | 
-| ![Azure IoT Workshop](https://github.com/AzureTechCommunity/IoT-Content/blob/main/AzureIoTWorkshopContoso.PNG)  | [Azure IoT Workshop](https://azure.github.io/iot-workshop-asset-tracking/)  | Real-time asset tracking scenario  |
-| ![Azure IoT Build Session](https://github.com/AzureTechCommunity/IoT-Content/blob/main/AzureIoTBuildSession.PNG)  | [Live code session at Build](https://www.youtube.com/watch?v=3A6Lhakfyes&feature=emb_logo)  | Code session demonstrating the IoT workshop  |
+| ![Azure IoT Workshop](https://github.com/AzureTechCommunity/IoT-Content/blob/main/images/AzureIoTWorkshopContoso.PNG)  | [Azure IoT Workshop](https://azure.github.io/iot-workshop-asset-tracking/)  | Real-time asset tracking scenario  |
+| ![Azure IoT Build Session](https://github.com/AzureTechCommunity/IoT-Content/blob/main/images/AzureIoTBuildSession.PNG)  | [Live code session at Build](https://www.youtube.com/watch?v=3A6Lhakfyes&feature=emb_logo)  | Code session demonstrating the IoT workshop  |
 
 ## Additional Resources
 | Resource | Description |
