@@ -1,5 +1,5 @@
 # IoT Meetup Content
-This page is a resource for IoT related Meetup content
+This page is a resource for IoT-related meetup content
 
 ## Introducing IoT
 - [What is IoT on Azure?](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-introduction)
