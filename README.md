@@ -1,10 +1,10 @@
-# IoT Meetup Content
+# IoT meetup content
 This page is a resource for IoT-related meetup content
 
 ## Introducing IoT
 - [What is IoT on Azure?](https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-introduction)
 
-## Interactive Demos/Sessions
+## Interactive demos/sessions
 | Preview | Resource | Description | Level |
 | ------------- | ------------- | ------------- | ------------- | 
 | ![IoT DevKit Easy](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/DevkitIoTEasy.PNG) | [IoT DevKit PnP](https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-pnp-get-started/sample/) | Tutorial to get you started with IoT DevKit as PnP Device | Beginner |
@@ -13,7 +13,7 @@ This page is a resource for IoT-related meetup content
 | ![Azure IoT Build Session](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/AzureIoTBuildSession.PNG)  | [Live code session at Build](https://www.youtube.com/watch?v=3A6Lhakfyes&feature=emb_logo)  | Code session demonstrating the IoT workshop  | Intermediate |
 | ![DevKit Simulator](https://github.com/AzureTechCommunity/IoT-Content/blob/main/Images/DevKitSimulator.PNG) | [IoT DevKit Simulator](https://azure-samples.github.io/iot-devkit-web-simulator/) | DevKit Simiulator for MXChip | Intermediate | 
 
-## Additional Resources
+## Additional resources
 | Resource | Description |
 | ------------- | ------------- |
 | [Get Skilled](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)  | Microsoft Learn Certification: Azure IoT Specialty  |
